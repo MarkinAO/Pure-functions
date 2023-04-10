@@ -1,4 +1,4 @@
-import getHealthStatus from '../main';
+import getHealthStatus from '../js/main';
 
 // test('basic test', () => {
 //   let res;
